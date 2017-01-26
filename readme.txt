@@ -1,0 +1,1 @@
+Part II of "Handling File Import Processing with NServiceBus Sagas (aka, “Death to the Batch Job”)" (https://mgmccarthy.wordpress.com/2015/06/12/handling-file-import-processing-with-nservicebus-sagas-aka-death-to-the-batch-job/) where instead of using a saga to power the import, I instead use bus.Defer
